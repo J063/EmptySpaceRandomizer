@@ -41,7 +41,5 @@ don't care
 
 * **J63** - *Initial work* - [J063](https://github.com/J063)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 This particular set of settings is subject to the [MIT License](https://opensource.org/licenses/MIT).
