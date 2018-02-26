@@ -16,10 +16,12 @@ system unresponsiveness due to lack of disk space.
 
 ## Getting Started
 
-```
-java Randomizer
+Typically I have something like this in my ~/.profile:
 
 ```
+alias cldsk="cd $HOME/Projecten/EmptySpaceRandomizer && java Randomizer && cd"
+```
+
 ### Prerequisites
 
 - >= java 1.7
