@@ -1,7 +1,6 @@
-# Project Title
+# Empty disk space randomizer
 
-Empty disk space randomizer - in order to clear unused disk space
-(and determine writing speed)
+Created in order to clear unused disk space (and determine writing speed)
 
 ## Description
 
