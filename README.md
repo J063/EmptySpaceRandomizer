@@ -21,6 +21,13 @@ Typically I have something like this in my ~/.profile:
 alias cldsk="cd $HOME/Projecten/EmptySpaceRandomizer && java Randomizer && cd"
 ```
 
+You can also run the program manually as follows:
+```
+java Randomizer 130
+```
+
+Where the randomizer will fill the disk until the optional lower limit of 130GB has been reached
+
 ### Prerequisites
 
 - >= java 1.7
